@@ -1,10 +1,33 @@
 @import url("https://fonts.googleapis.com/css2?family=Acme&family=Roboto+Slab:wght@100;200;400;600&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,700;1,200;1,600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Acme&family=Martian+Mono:wght@100;400;600;700;800&family=Roboto+Slab:wght@100;200;400;600&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,700;1,200;1,600&display=swap");
 
-
-*{
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Titulos */
+.title2 {
+  color: var(--text-gray-900, #18191f);
+  text-align: center;
+  font-size: 38px;
+  font-weight: 800;
+}
+
+.title3 {
+  color: var(--text-gray-900, #18191f);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.paragran {
+  color: var(--text-gray-900, #18191f);
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
 }

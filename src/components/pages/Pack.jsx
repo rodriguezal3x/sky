@@ -1,11 +1,12 @@
-import React from 'react'
+import { Container } from "@mui/material";
+import React from "react";
 
 const Pack = () => {
   return (
-    <div>
-      Paquetes
-    </div>
-  )
-}
+    <Container>
+      
+    </Container>
+  );
+};
 
-export default Pack
+export default Pack;
