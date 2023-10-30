@@ -1,0 +1,42 @@
+[
+    {
+      "titulo": "Silver",
+      "descripcion": "Perfecto para principiantes",
+      "precio": "13,599 / mes",
+      "canales": "Hasta 170 Canales",
+      "caracteristicas": [
+        "73 canales de Video HD",
+        "23 canales SD",
+        "12 Mosaicos",
+        "12 ppm 75 audio",
+        "34 Sky News"
+      ]
+    },
+    {
+      "titulo": "Gold",
+      "descripcion": "Ideal para usuarios intermedios",
+      "precio": "24,999 / mes",
+      "canales": "Hasta 250 Canales",
+      "caracteristicas": [
+        "100 canales de Video HD",
+        "40 canales SD",
+        "20 Mosaicos",
+        "15 ppm 100 audio",
+        "50 Sky News"
+      ]
+    },
+    {
+      "titulo": "Platinum",
+      "descripcion": "Para usuarios avanzados",
+      "precio": "39,999 / mes",
+      "canales": "Hasta 350 Canales",
+      "caracteristicas": [
+        "150 canales de Video HD",
+        "60 canales SD",
+        "30 Mosaicos",
+        "20 ppm 150 audio",
+        "70 Sky News"
+      ]
+    }
+  ]
+  
