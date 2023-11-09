@@ -24,9 +24,9 @@ const Navbar = () => {
         <BoxLi>
           <StyledLink to="/packages">Paquetes</StyledLink>
         </BoxLi>
-        <BoxLi>
+        {/* <BoxLi>
           <StyledLink to="/contact">Contacto</StyledLink>
-        </BoxLi>
+        </BoxLi> */}
       </Navigation>
     </ContainerNav>
   );

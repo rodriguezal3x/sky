@@ -19,7 +19,7 @@ const Banner = () => {
         <TitleI>
           El mejor servicio de television HD<br /> pais al  mejor precio.
         </TitleI>
-        <BtnLink as="a" href="https://wa.me/72048907">
+        <BtnLink as="a" href="https://wa.me/71553910">
           Contratar
         </BtnLink>
       </ContRight>
