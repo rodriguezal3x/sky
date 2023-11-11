@@ -2,7 +2,7 @@ import React from "react";
 import { Routes, Route } from "react-router-dom";
 import About from "../components/pages/About";
 import Contact from "../components/pages/Contact";
-import Packages from "../components/pages/Pack";
+import Packages from "../pages/Pack";
 import Home from "../components/pages/Home";
 
 const AppRoutes = () => {
@@ -12,6 +12,7 @@ const AppRoutes = () => {
       <Route path="/about" element={<About />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/packages" element={<Packages />} />
+
     </Routes>
   );
 };

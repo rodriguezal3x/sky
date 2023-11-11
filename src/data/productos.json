@@ -1,0 +1,42 @@
+[
+    {
+      "titulo": "Silver",
+      "descripcion": "Para nuevos entusiastas.",
+      "precio": "12,599",
+      "canales": "170 Canales",
+      "caracteristicas": [
+        "58 Video HD",
+        "13 video SD",
+        "12 PPM",
+        "12 Mosaicos",
+        "75 Audio"
+      ]
+    },
+    {
+      "titulo": "Gold",
+      "descripcion": "Ideal intermedio",
+      "precio": "15,539",
+      "canales": "191 Canales",
+      "caracteristicas": [
+        "76 Video HD",
+        "16 video SD",
+        "12 PPM",
+        "12 Mosaicos",
+        "75 Audio"
+      ]
+    },
+    {
+      "titulo": "Platinum",
+      "descripcion": "  HD Avanzado",
+      "precio": "23,939",
+      "canales": "212 Canales",
+      "caracteristicas": [
+        "91 Video HD",
+        "22 video SD",
+        "12 PPM",
+        "12 Mosaicos",
+        "75 Audio"
+      ]
+    }
+  ]
+  
